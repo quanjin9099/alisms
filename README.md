@@ -1,3 +1,6 @@
+# 阿里云短信服务之python版本
+  https://www.aliyun.com/product/sms
+
 # 版权说明
   爱怎么用就怎么用，不用通知我^_^
 
