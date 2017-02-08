@@ -5,4 +5,5 @@
 
 # 用法
   SendSms=AliSMSService('http://sms.aliyuncs.com/',你的access_id,你的access_secret,你的SignName,你的TemplateCode)
+
   SendSms.send_sms(送达手机号码,你设置的模版中的变量对应的值)
